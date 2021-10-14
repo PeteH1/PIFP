@@ -1,5 +1,7 @@
 package com.qa.pifp.data;
 
+import java.util.Objects;
+
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
@@ -68,6 +70,24 @@ public class Player {
 
 	public void setNationality(String nationality) {
 		this.nationality = nationality;
+	}
+
+	@Override
+	public int hashCode() {
+		return Objects.hash(Id, age, name, nationality, position);
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Player other = (Player) obj;
+		return Objects.equals(Id, other.Id) && Objects.equals(age, other.age) && Objects.equals(name, other.name)
+				&& Objects.equals(nationality, other.nationality) && Objects.equals(position, other.position);
 	}
 
 }
