@@ -1,5 +1,5 @@
-<div align="center"># PIFP</div>
-<div align="center">### Hello, and welcome to Pete's Incredible Football Project!</div>
+<h1 align="center">PIFP</h1>
+<h3 align="center">Hello, and welcome to Pete's Incredible Football Project!<h3>
 
 
 
