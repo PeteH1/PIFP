@@ -22,10 +22,10 @@ View players currently held in the database
 (I also added a custom exception for when you try and retrieve a player that isn't there)
 ![Custom exception](https://github.com/PeteH1/PIFP/blob/feature4-README/screenshots/Custom%20exception.PNG?raw=true)
 
-Update the details of existing players
+You can also update the details of existing players
 ![Update player](https://github.com/PeteH1/PIFP/blob/feature4-README/screenshots/Update%20player.PNG?raw=true)
   
-Delete players
+And delete players
 ![Delete player](https://github.com/PeteH1/PIFP/blob/feature4-README/screenshots/Delete%20player.PNG?raw=true)
   
 But the fun doesn't end there!  
