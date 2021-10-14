@@ -38,4 +38,4 @@ And admire the incredible test coverage:
 To have created such an incredible project required incredible project management, which was all done using [this incredible Jira board](https://team-1629815281094.atlassian.net/jira/software/projects/PIFP/boards/3)
   
 I hope you have enjoyed learning about Pete's Incredible Football Project. Thank you for visiting, and farewell <3.
-<iframe src="https://giphy.com/embed/JDTsqJhvLOq9G" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/JDTsqJhvLOq9G">via GIPHY</a></p>
+![Goodbye](http://cliparts.co/cliparts/LTd/5Ab/LTd5AbzRc.gif)
